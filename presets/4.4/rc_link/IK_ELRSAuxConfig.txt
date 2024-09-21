@@ -1,0 +1,18 @@
+#$ TITLE: IK_ ERLS Aux Config
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: RC_LINK
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS: elrs, aux
+#$ AUTHOR: IK
+
+# aux
+aux 0 0 0 1975 2025 0 0
+aux 1 1 1 1950 2050 0 0
+aux 2 13 4 1450 2100 0 0
+aux 3 28 2 900 1100 0 0
+aux 4 31 2 1900 2100 0 0
+aux 5 35 5 1450 2100 0 0
+aux 6 36 6 1950 2050 0 0
+aux 7 47 1 1475 1525 0 0
+
+set rate_6pos_switch = ON

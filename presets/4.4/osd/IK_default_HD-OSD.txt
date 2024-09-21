@@ -1,0 +1,39 @@
+#$ TITLE: Igors 4.4 HD OSD settings
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: OSD
+#$ STATUS: OFFICIAL
+#$ KEYWORDS: IK, OSD
+#$ AUTHOR: IK
+#$ DESCRIPTION: Sets OSD elements for HD VTX
+
+set osd_cap_alarm = 900
+set osd_vbat_pos = 3595
+set osd_rssi_pos = 56
+set osd_link_quality_pos = 3116
+set osd_rssi_dbm_pos = 3148
+set osd_tim_1_pos = 224
+set osd_tim_2_pos = 2498
+set osd_flymode_pos = 6627
+set osd_vtx_channel_pos = 2050
+set osd_crosshairs_pos = 237
+set osd_current_pos = 3499
+set osd_mah_drawn_pos = 7628
+set osd_craft_name_pos = 6678
+set osd_gps_speed_pos = 2520
+set osd_gps_sats_pos = 2072
+set osd_home_dir_pos = 2552
+set osd_home_dist_pos = 2553
+set osd_flight_dist_pos = 2466
+set osd_compass_bar_pos = 2104
+set osd_altitude_pos = 6658
+set osd_warnings_pos = 14740
+set osd_avg_cell_voltage_pos = 15851
+set osd_disarmed_pos = 2454
+set osd_rtc_date_time_pos = 2079
+set osd_flip_arrow_pos = 6521
+set osd_rate_profile_name_pos = 2082
+set osd_camera_frame_pos = 1
+set osd_stat_bitmask = 6717244
+set osd_displayport_device = MSP
+set osd_canvas_width = 50
+set osd_canvas_height = 18
