@@ -360,6 +360,7 @@
       "five33",
       "Foxeer",
       "fport",
+      "fpv",
       "fpv.wtf",
       "FPVCycle",
       "FPVCycle TP3",
@@ -4546,8 +4547,8 @@
     },
     {
       "fullPath": "presets/4.4/rates/IK_FPV_rateprofiles.txt",
-      "hash": "fd4151af99e2f2db4566a50591076c2e5082382fd3578095aee048fde1951251",
-      "title": "Davide FPV Rates for Freestyle with Cinematic Option",
+      "hash": "878ff939be01048b8b52078f5e007a8aea3520d7c69afb67f7f3240054c565d0",
+      "title": "IK rateprofiles",
       "firmware_version": [
         "4.3",
         "4.4",
@@ -4556,14 +4557,15 @@
       "category": "RATES",
       "status": "COMMUNITY",
       "keywords": [
-        "davide fpv",
+        "IK",
+        "fpv",
         "davide",
         "rates",
         "freestyle",
         "hd",
         "cinematic"
       ],
-      "author": "Davide FPV (Davide Angeletti)",
+      "author": "IK",
       "priority": 10000
     },
     {
